@@ -23,7 +23,7 @@ This project focuses on cryptocurrency price prediction using Recurrent Neural N
 ## Installation
 
 1. Clone this repository: <br>
-   `git clone https://github.com/Atari5o6o/crypto-price-prediction.git`
+   `git clone https://github.com/Atari5o6o/LSTM-Cryptocurrency.git`
 
 3. Install the required Python packages:
 
